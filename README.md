@@ -16,7 +16,7 @@ https://keras.io/
 $ pip install flask gevent requests pillow
 ```
 
-### Run
+### 2. Run
 ```
 python Sense.py
 ```
